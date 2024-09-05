@@ -1,0 +1,104 @@
+{
+    "Games": [
+
+{
+  "Title": "Ticket to Ride: Europe",
+  "image": "https://raw.githubusercontent.com/AntiKiljoy/DataFiles/main/Images/Tickettoride-europe.webp",
+  "Description": "Build train routes across Europe in this sequel to the hit family board game. ",
+  "Amount of Players": "2-5",
+  "Duration": "30-40 mins",
+  "Difficulty": "1.92/5",
+  "Location": "A1"
+},
+
+{
+    "Title": "Catan",
+    "image": "https://raw.githubusercontent.com/AntiKiljoy/DataFiles/main/Images/catan.webp",
+    "Description": "Collect and trade resources to build up the island of Catan in this modern classic.",
+    "Amount of Players": "2-5",
+    "Duration": "60-120 mins",
+    "Difficulty": "2.29/5",
+    "Location": "D1"
+  },
+
+  {
+    "Title": "Rummikub",
+    "image": "https://raw.githubusercontent.com/AntiKiljoy/DataFiles/main/Images/Rummikub.webp",
+    "Description": "Race to play all your tiles by forming runs or sets, even if they're not your own!",
+    "Amount of Players": "2-4",
+    "Duration": "60 mins",
+    "Difficulty": "1.72/5",
+    "Location": "B6"
+  },
+
+  {
+    "Title": "Scout",
+    "image": "https://raw.githubusercontent.com/AntiKiljoy/DataFiles/main/Images/Scout.webp",
+    "Description": "Poach your opponents' artists and outdo each other's circus shows.",
+    "Amount of Players": "2-5",
+    "Duration": "15 mins",
+    "Difficulty": "1.35/5",
+    "Location": "Små"
+  },
+
+  {
+    "Title": "Skull",
+    "image": "https://raw.githubusercontent.com/AntiKiljoy/DataFiles/main/Images/Skull.webp",
+    "Description": "Does the token hide a flower or skull? Bid, bluff and laugh with striking components.",
+    "Amount of Players": "3-6",
+    "Duration": "15-45 min",
+    "Difficulty": "1.12/5",
+    "Location": "Små"
+  },
+
+  {
+    "Title": "Sequence",
+    "image": "https://raw.githubusercontent.com/AntiKiljoy/DataFiles/main/Images/sequence.webp",
+    "Description": "Does the token hide a flower or skull? Bid, bluff and laugh with striking components.",
+    "Amount of Players": "2-4",
+    "Duration": "10-30 min",
+    "Difficulty": "1.32/5",
+    "Location": "C3"
+  },
+
+  {
+    "Title": "7 Wonders Dual",
+    "image": "https://raw.githubusercontent.com/AntiKiljoy/DataFiles/main/Images/7wondersduel.webp",
+    "Description": "Science? Military? What will you draft to win this head-to-head version of 7 Wonders?",
+    "Amount of Players": "2",
+    "Duration": "30 min",
+    "Difficulty": "2.23/5",
+    "Location": "A4"
+  },
+
+  {
+    "Title": "Munchkin",
+    "image": "https://raw.githubusercontent.com/AntiKiljoy/DataFiles/main/Images/Munchkin.webp",
+    "Description": "Attack and loot in this humorous, card-based dungeon crawler.",
+    "Amount of Players": "3-6",
+    "Duration": "60-120 min",
+    "Difficulty": "1.81/5",
+    "Location": "C2"
+  },
+
+  {
+    "Title": "Cosmoctopus",
+    "image": "https://raw.githubusercontent.com/AntiKiljoy/DataFiles/main/Images/Costmoctopus.webp",
+    "Description": "Earn tentacles to prove your devotion to the cutest cephalopod in the cosmos.",
+    "Amount of Players": "1-4",
+    "Duration": "60-90 min",
+    "Difficulty": "2.04/5",
+    "Location": "B6"
+  },
+
+  {
+    "Title": "Exploding Kittens",
+    "image": "https://raw.githubusercontent.com/AntiKiljoy/DataFiles/main/Images/expoldingkittens.webp",
+    "Description": "Ask for favors, attack friends, see the future- whatever it takes to avoid exploding!",
+    "Amount of Players": "2-5",
+    "Duration": "15 min",
+    "Difficulty": "1.08/5",
+    "Location": "Små"
+  }
+    ]
+}
